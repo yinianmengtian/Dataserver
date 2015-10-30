@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<sql ip="11112">select id , url , time , mac from urllist where id&gt;#  ORDER BY id limit *</sql>
+	<sql ip="1113">select id , url , time , mac from urllist where id&gt;#  ORDER BY id limit *</sql>
+</data>

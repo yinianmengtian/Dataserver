@@ -1,0 +1,1 @@
+2015-10-20 09:44:39  [ Timer-0:1422 ] - [ ERROR ]  Cannot resolve the host name for /192.168.1.73 because of javax.naming.CommunicationException: DNS error [Root exception is java.net.PortUnreachableException: ICMP Port Unreachable]; remaining name '73.1.168.192.in-addr.arpa'
